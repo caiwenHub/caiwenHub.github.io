@@ -1,0 +1,1 @@
+{"content":"<h1 id=\"节流函数\">节流函数</h1>\n<h2 id=\"介绍\">介绍</h2>\n<p><strong>定义</strong>：把一段时间分成多个切片，在这些切片里面多次触发只执行一次。\n<strong>场景</strong>：按钮连续点击、事件监听（resize...）等防止事件频繁触发的场景。</p>\n","fileName":"throttle"}
