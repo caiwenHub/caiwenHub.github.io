@@ -1,0 +1,1 @@
+{"content":"<h1 id=\"自适应页面\">自适应页面</h1>\n<p><strong>实现方式：</strong><br>1.通过 lib-flexible 动态的改变 html 跟元素 font-size 的值。<br>2.通过 px2rem 插件将 css 文件中的 px 转为 rem。</p>\n","fileName":"fitlayout"}
